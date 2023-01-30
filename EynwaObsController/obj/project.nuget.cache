@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "5KkoHw7ThX9/X6PkVI7AkARo5nxN2RmLqi/8m7GDESaMj9Ql6VzRdzQI5D2Ay3tUoFUSxGEihreNjeON4lCtTA==",
+  "success": true,
+  "projectFilePath": "D:\\BackUp\\Projects\\Dev\\EynwaObsController\\EynwaObsController\\EynwaObsController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eithing\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\Eithing\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Eithing\\.nuget\\packages\\obs-websocket-dotnet\\4.8.1\\obs-websocket-dotnet.4.8.1.nupkg.sha512",
+    "C:\\Users\\Eithing\\.nuget\\packages\\refit\\5.2.4\\refit.5.2.4.nupkg.sha512",
+    "C:\\Users\\Eithing\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Eithing\\.nuget\\packages\\twitchlib.client\\3.1.5\\twitchlib.client.3.1.5.nupkg.sha512",
+    "C:\\Users\\Eithing\\.nuget\\packages\\twitchlib.client.enums\\3.1.4\\twitchlib.client.enums.3.1.4.nupkg.sha512",
+    "C:\\Users\\Eithing\\.nuget\\packages\\twitchlib.client.models\\3.1.5\\twitchlib.client.models.3.1.5.nupkg.sha512",
+    "C:\\Users\\Eithing\\.nuget\\packages\\twitchlib.communication\\1.0.3\\twitchlib.communication.1.0.3.nupkg.sha512",
+    "C:\\Users\\Eithing\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
